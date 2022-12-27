@@ -1,1 +1,1 @@
-C'est un shell développé en C.
+It is a shell developed in C.
